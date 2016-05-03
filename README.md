@@ -45,6 +45,9 @@ Developers who intend to build apps that will use the ethereum blockchain. Users
 
 ##[Embark](http://iurimatias.github.io/embark-framework/)
 
+Take a look at my Embark primer available here:
+[EMBARK-PRIMER](https://github.com/robhaj/embark-primer)
+
 Embark is a framework that allows you to easily develop and deploy DApps.
 
 You can:
